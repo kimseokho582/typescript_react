@@ -10,6 +10,7 @@
     "@types/node": "^12.20.15",
     "@types/react": "^17.0.11",
     "@types/react-dom": "^17.0.8",
+    "@types/styled-components": "^5.1.20",
     "react": "^17.0.2",
     "react-components": "^0.5.1",
     "react-dom": "^17.0.2",
